@@ -1,0 +1,4 @@
+npx create-next-app@latest echo-forge --typescript --tailwind --eslint --app --yes
+cd echo-forge
+npm install @ai-sdk/xai openai @supabase/supabase-js stripe lucide-react @vercel/analytics
+npm install -D @types/node
